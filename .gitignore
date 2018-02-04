@@ -1,0 +1,11 @@
+# Compiled class file
+#*.class
+
+# Package Files #
+
+#.idea/
+.idea/*.*
+
+#src/
+*.iml
+
