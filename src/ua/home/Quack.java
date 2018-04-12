@@ -1,6 +1,4 @@
-package ua.hillel;
-
-import java.net.SocketPermission;
+package ua.home;
 
 public class Quack implements QuackBehavior {
     @Override

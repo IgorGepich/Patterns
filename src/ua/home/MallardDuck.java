@@ -1,4 +1,4 @@
-package ua.hillel;
+package ua.home;
 
 public class MallardDuck extends Duck {
 

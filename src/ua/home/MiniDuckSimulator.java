@@ -1,4 +1,4 @@
-package ua.hillel;
+package ua.home;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
